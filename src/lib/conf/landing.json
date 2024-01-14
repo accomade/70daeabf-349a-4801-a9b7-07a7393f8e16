@@ -16,6 +16,15 @@
           }
         },
         {
+          "kind": "text",
+          "content": {
+            "ref": "considerable-nodding-onion-text",
+            "minFontSize": "",
+            "maxFontSize": "",
+            "minHeight": ""
+          }
+        },
+        {
           "kind": "calendar",
           "acco": "975b58d0-f41e-4261-8ce3-47f3d8becceb",
           "content": {
@@ -26,7 +35,10 @@
         {
           "kind": "text",
           "content": {
-            "ref": "embarrassing-asian-rice-text"
+            "ref": "embarrassing-asian-rice-text",
+            "minFontSize": "",
+            "maxFontSize": "",
+            "minHeight": ""
           }
         }
       ]
