@@ -40,6 +40,11 @@
   })
 </script>
 
+<svelte:head>
+  <meta name="description" content="ACCOMADE powered website to present holiday accomodations.">
+</svelte:head>
+
+
 <slot></slot>
 
 <Banner 
