@@ -64,13 +64,13 @@
               "smoking": false,
               "ac": false,
               "tv": true,
-              "parking": false,
+              "parking": true,
               "showPets": true,
               "showWifi": true,
               "showSmoking": true,
               "showAc": false,
               "showTv": true,
-              "showParking": false
+              "showParking": true
             }
           }
         },
